@@ -177,6 +177,8 @@ db.task37.insertMany(
         "product_color": "indigo"
     }
 ])
+
+
 1)db.task37.find({})
 2)db.collection.find({
     product_price: {
